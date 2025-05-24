@@ -1,0 +1,24 @@
+{
+  "config":{
+    "hw_platform": ["MTP", "Dragon", "Surf", "QRD"],
+    "soc_id": ["457","530"]
+  },
+  "sns_hand_hold": {
+    "owner": "sns_hand_hold",
+      ".params":{
+        "owner": "sns_hand_hold",
+        "compen_num": {
+          "type": "flt", "ver": "0", "data": "5"
+        },
+        "sar_th": {
+          "type": "flt", "ver": "0", "data": "270000"
+        },
+        "acc_th": {
+          "type": "flt", "ver": "0", "data": "25.0"
+        },
+        "acc_y": {
+          "type": "flt", "ver": "0", "data": "3.0"
+        }
+      }
+  }
+}

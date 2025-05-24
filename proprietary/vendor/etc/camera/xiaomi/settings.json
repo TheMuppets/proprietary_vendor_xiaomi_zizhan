@@ -1,0 +1,28 @@
+{
+    "InternalPreviewBufferQueueSize": 20,
+    "FwkStreamMaxBufferQueueSize": 8,
+    "MockCameraFwkStreamMaxBufferQueueSize": 8,
+    "MillisecondsWaitingForMockRequest": 30000,
+    "MillisecondsWaitingForFlush": 4000,
+    "ModeList": {
+        // spatial alignment mode(aka: muti camera mode)
+        "SatMode": {
+            "InternalSnapshotBufferQueueSize": 8
+        },
+        "ProfessionalMode": {
+            // if the buffer queue size is 0, Qcom will override this to 8
+            "InternalSnapshotBufferQueueSize": 0,
+            "MillisecondsWaitingForFlush": 100
+        },
+        "BokehMode": {
+            "InternalSnapshotBufferQueueSize": 0
+        },
+        "SuperNightMode": {
+            "InternalSnapshotBufferQueueSize": 0,
+            "MillisecondsWaitingForFlush": 300
+        },
+        "SuperHDMode": {
+            "InternalSnapshotBufferQueueSize": 0
+        }
+    }
+}

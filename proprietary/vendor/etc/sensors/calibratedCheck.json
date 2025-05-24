@@ -1,0 +1,197 @@
+[
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/bmp285_0_platform.pressure.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"bmp285_0_platform.pressure.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{"rootFile":"/vendor/etc/sensors/config/sm8450_bmp285_0.json",
+        "verDepth":4,
+        "rootObject":"bmp285_0_platform",
+        "subRootObject1":".pressure",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/lsm6dso_0_platform.accel.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"lsm6dso_0_platform.accel.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_lsm6dso_0.json",
+        "verDepth":4,
+        "rootObject":"lsm6dso_0_platform",
+        "subRootObject1":".accel",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/lsm6dso_0_platform.gyro.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"lsm6dso_0_platform.gyro.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_lsm6dso_0.json",
+        "verDepth":4,
+        "rootObject":"lsm6dso_0_platform",
+        "subRootObject1":".gyro",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/lsm6dso_1_platform.accel.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"lsm6dso_1_platform.accel.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_lsm6dso_1.json",
+        "verDepth":4,
+        "rootObject":"lsm6dso_1_platform",
+        "subRootObject1":".accel",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/lsm6dso_1_platform.gyro.fac_cal.bias",
+        "verDepth":1,
+        "rootObject":"lsm6dso_1_platform.gyro.fac_cal.bias",
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_lsm6dso_1.json",
+        "verDepth":4,
+        "rootObject":"lsm6dso_1_platform",
+        "subRootObject1":".gyro",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3408_platform.channel.fac_cal",
+        "verDepth":1,
+        "rootObject":"tcs3408_platform.channel.fac_cal",
+        "items":["data_cch"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tcs3408.json",
+        "verDepth":3,
+        "rootObject":"tcs3408_platform",
+        "subRootObject1":".channel",
+        "subRootObject2":".fac_cal",
+        "items":["data_cch"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3720_platform.als.scale_cal",
+        "verDepth":1,
+        "rootObject":"tcs3720_platform.als.scale_cal",
+        "items":["scale"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tcs3720.json",
+        "verDepth":3,
+        "rootObject":"tcs3720_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".scale_cal",
+        "items":["scale"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3720_platform.als.gain_cal",
+        "verDepth":1,
+        "rootObject":"tcs3720_platform.als.gain_cal",
+        "items":["gain_max"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tcs3720.json",
+        "verDepth":3,
+        "rootObject":"tcs3720_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".gain_cal",
+        "items":["gain_max"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3720_sec_platform.als.scale_cal",
+        "verDepth":1,
+        "rootObject":"tcs3720_sec_platform.als.scale_cal",
+        "items":["scale"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tcs3720_sec.json",
+        "verDepth":3,
+        "rootObject":"tcs3720_sec_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".scale_cal",
+        "items":["scale"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3720_sec_platform.als.gain_cal",
+        "verDepth":1,
+        "rootObject":"tcs3720_sec_platform.als.gain_cal",
+        "items":["gain_max"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tcs3720_sec.json",
+        "verDepth":3,
+        "rootObject":"tcs3720_sec_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".gain_cal",
+        "items":["gain_max"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3720_sec_platform.prox.fac_cal",
+        "verDepth":1,
+        "rootObject":"tcs3720_sec_platform.prox.fac_cal",
+        "items":["near_threshold"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tcs3720_sec.json",
+        "verDepth":3,
+        "rootObject":"tcs3720_sec_platform",
+        "subRootObject1":".prox",
+        "subRootObject2":".fac_cal",
+        "items":["near_threshold"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/akm_fusion.tab_x",
+        "verDepth":1,
+        "rootObject":"akm_fusion.tab_x",
+        "items":["0"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sns_akm_fusion.json",
+        "verDepth":2,
+        "rootObject":"akm_fusion",
+        "subRootObject1":".tab_x",
+        "items":["0"]
+    }
+}
+]

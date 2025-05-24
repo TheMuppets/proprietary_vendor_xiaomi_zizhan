@@ -1,0 +1,6 @@
+[
+{"sensorType":5,"requestDisplayEventType":6,"requestDisplayId":0,"threadName":"backlight2light-notify"},
+{"sensorType":5,"requestDisplayEventType":4,"requestDisplayId":0,"threadName":"freq2light-notify"},
+{"sensorType":33171081,"requestDisplayEventType":6,"requestDisplayId":1,"threadName":"secbacklight2light-notify"},
+{"sensorType":33171081,"requestDisplayEventType":4,"requestDisplayId":1,"threadName":"secfreq2light-notify"}
+]
