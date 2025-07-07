@@ -841,6 +841,7 @@ PRODUCT_PACKAGES += \
     libdepthmapwrapper_secure \
     libstats.afalgo \
     libQnnHtp \
+    libQnnHtpV69Skel \
     libQnnHtpV69Stub \
     com.xiaomi.plugin.anchor \
     com.xiaomi.plugin.capbokeh \
