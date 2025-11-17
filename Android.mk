@@ -6,7 +6,7 @@ LOCAL_PATH := $(call my-dir)
 
 ifeq ($(TARGET_DEVICE),zizhan)
 
-$(call add-radio-file-sha1-checked,radio/abl.img,1acafa0e968a1454dd22637935864cd45b2bc3ae)
+$(call add-radio-file-sha1-checked,radio/abl.img,b3ea4b6a2fb93d3ad2a8b0481e67b22e4097b5d7)
 $(call add-radio-file-sha1-checked,radio/aop.img,3aac2fc8d66074817d5413b31acf0207e4c8ae4e)
 $(call add-radio-file-sha1-checked,radio/aop_config.img,fcf1cbac327bc29c0b46e44f43a2b72a6265558e)
 $(call add-radio-file-sha1-checked,radio/bluetooth.img,01aa0fd67a62418e578bd79ef83784b27386b799)
