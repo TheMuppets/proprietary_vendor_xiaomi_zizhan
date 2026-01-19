@@ -9,6 +9,9 @@ enableTxtLogging=1
 offlineLogNumber=10
 offlineLoggerEnableBackupLog=FALSE
 
+#Resort the sensor data
+enableResortSensorData=TRUE
+
 # MFHDR enable Snapshot Mode
 SupportedAlgoEngineHdr=1
 

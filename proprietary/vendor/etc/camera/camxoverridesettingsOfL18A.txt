@@ -17,6 +17,9 @@ enableCameraCoreDumpBinary=FALSE
 enableCameraCoreDumpText=FALSE
 numConsecutiveRecovery=10
 
+#Resort the sensor data
+enableResortSensorData=TRUE
+
 # MFHDR enable Snapshot Mode
 SupportedAlgoEngineHdr=1
 
